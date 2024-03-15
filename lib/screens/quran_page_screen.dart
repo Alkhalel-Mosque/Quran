@@ -58,7 +58,7 @@ class QuranScreen extends StatelessWidget {
                           }
                         }).toList(),
                       ),
-                    ),
+                    ), //comment
                     Text(juz.pages[index].id.toString()),
                   ],
                 ),
