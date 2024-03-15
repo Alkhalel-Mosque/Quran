@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:quran/models/quran.dart';
 import 'package:quran/screens/home_screen.dart';
 
+//huh
 late Quran quran;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
