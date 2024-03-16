@@ -1,0 +1,53 @@
+[
+    {
+        "rywaieh":"حفص عن عاصم ",
+        "juzs": [
+            {
+                "juzId": 1,
+                "hizbs": [
+                    {
+                        "hizbId": 1,
+                        "pages": [
+                            {
+                                "page": 1,
+                                "ayahs": [
+                                    {
+                                        "metaData": {
+                                            "type": "start_sura",
+                                            "suraName": "الفاتحة - Al-Fatihah",
+                                            "surahId": 1
+                                        },
+                                        "words": []
+                                    },
+                                    {
+                                        "metaData": {},
+                                        "ayahId": 1,
+                                        "ayahSurahId": 1,
+                                        "words": [
+                                            {
+                                                "id": 1,
+                                                "pos": 5,
+                                                "type": "word",
+                                                "lineId": 2,
+                                                "text": "بِسْمِ"
+                                            },
+                                            {
+                                                "id": 5,
+                                                "position": 5,
+                                                "char_type_name": "end",
+                                                "line_number": 2,
+                                                "text": "(1)",
+                                                "parentAyahVerseKey": "1:1",
+                                                "ayahIndex": 1
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
