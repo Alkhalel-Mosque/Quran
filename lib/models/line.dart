@@ -24,7 +24,7 @@ class NormalLine extends Line {
 }
 
 class BasmalehLine extends Line {
-  static const String basmaleh = "بسم الله الرحمن الرحيم";
+  static const String basmaleh = "ﭑﭒﭓ";
   const BasmalehLine();
   factory BasmalehLine.fromJson(Map json) {
     return const BasmalehLine();

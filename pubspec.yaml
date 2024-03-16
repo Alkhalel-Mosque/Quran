@@ -27,6 +27,7 @@ flutter:
 
   assets:
     - assets/json/quran.json
+    - assets/images/
 
   fonts:
     - family: basmaleh
